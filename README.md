@@ -45,9 +45,9 @@ grid of points.
 
 The following values are defined:
 
-	* `X` represents an invalid position (such as a wall)
-	* `O` represents a valid position (a pathway)
-	* `F` represents the end(s) of the maze
+* `X` represents an invalid position (such as a wall)
+* `O` represents a valid position (a pathway)
+* `F` represents the end(s) of the maze
 
 Any other values are treated as invalid positions (i.e. are synonymous
 with an `X` value), however, leading and trailing whitespace is
