@@ -19,7 +19,7 @@ your marker will be very happy about that.
 
 ## Usage
 
-	$ python assignment1.py
+	$ python assign1.py
 	Maze File:
 
 Follow the onscreen prompts. For help, use ?. The "Maze File:" prompt
@@ -28,8 +28,8 @@ expects a filename (and possibly path) to a maze-layout file.
 It can also be used as a module:
 
 	$ python
-	>>> import assignment1
-	>>> assignment1.interact() # Start the main loop
+	>>> import assign1
+	>>> assign1.interact() # Start the main loop
 
 This can also be used to inspect the functions in the module.
 
